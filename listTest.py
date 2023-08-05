@@ -32,4 +32,11 @@ name.remove("Rabbi")
 print("Remove list : ",name)
 
 
+# list sorting 
+# ascending 
+name.sort()
+print("list sorting : ",name)
 
+# Decending 
+name.sort(reverse=True)
+print("Reverse List : ",name)
